@@ -1,0 +1,63 @@
+.header-bg-lg {
+  padding: 10px;
+  background-color: #272727;
+  display: flex;
+  justify-content: space-between;
+  color: #ffffff;
+  font-family: 'Roboto';
+  align-items: center;
+}
+
+.header-bg-sm {
+  display: none;
+}
+
+@media screen and(max-width:768px) {
+  .header-bg-sm {
+    padding: 10px;
+    background-color: #272727;
+    display: flex;
+    justify-content: space-between;
+    color: #ffffff;
+    font-family: 'Roboto';
+  }
+  .header-bg-lg {
+    display: none;
+  }
+}
+
+@media screen and(min-width:769px) {
+  .header-bg-lg {
+    padding: 10px;
+    background-color: #272727;
+    display: flex;
+    justify-content: space-between;
+    color: #ffffff;
+    font-family: 'Roboto';
+  }
+  .header-bg-sm {
+    display: none;
+  }
+}
+
+.home-jobs-link {
+  text-decoration: none;
+  color: #ffffff;
+  margin-right: 10px;
+  cursor: pointer;
+}
+.logout-btn {
+  color: #ffffff;
+  width: 120px;
+  height: 30px;
+  border-width: 0px;
+  border-radius: 10px;
+  background-color: #4f46e5;
+  text-align: center;
+  cursor: pointer;
+  font-size: 12px;
+}
+
+.header-web-logo {
+  cursor: pointer;
+}

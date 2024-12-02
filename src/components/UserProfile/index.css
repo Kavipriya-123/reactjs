@@ -1,0 +1,18 @@
+.userCard {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  background-size: cover;
+  color: #4f46e5;
+  font-family: 'Roboto';
+  padding: 10px;
+  border-radius:10px;
+  background-position: center;
+  margin-bottom:20px;
+}
+
+.userImage {
+  height: 50px;
+  width: 50px;
+}
+user-description {
+  color: #2c364c;
+}

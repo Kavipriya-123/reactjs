@@ -1,0 +1,36 @@
+.job-card-cont {
+  font-family: 'Roboto';
+  padding: 20px;
+  border-radius: 10px;
+  color: #ffffff;
+  margin-top: 20px;
+}
+
+.top-job-iconTitle-cont {
+  display: flex;
+  align-items: center;
+}
+
+.job-rating-cont {
+  display: flex;
+  justify-content: space-between;
+}
+.top-jobItem-icon {
+  width: 75px;
+  height: 80px;
+  margin-right: 15px;
+}
+
+.top-location-emptype {
+  display: flex;
+  justify-content: space-between;
+  width: 20%;
+}
+.top-rating-star {
+  color: #fbbf24;
+}
+.description-cont {
+  display: flex;
+  justify-content: space-between;
+  cursor: pointer;
+}

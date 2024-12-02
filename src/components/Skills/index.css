@@ -1,0 +1,12 @@
+.list1-skill {
+  display: flex;
+  color: white;
+  width: 20%;
+  margin-bottom: 35px;
+}
+
+.skill-image {
+  width: 70px;
+  height: 70px;
+  margin-right: 10px;
+}

@@ -1,0 +1,30 @@
+.skills-cont {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.full-detail-job-cont {
+  background-color: black;
+  padding: 20px;
+  color: white;
+}
+.lifeAt-cont {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.full-detail-top {
+  background-color: #202020;
+}
+
+.similar-job-cont {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.skill-head {
+  padding: 20px;
+}
